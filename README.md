@@ -1,7 +1,14 @@
-# aletterfromthefuturetomyself
+# A Letter From The Future To Myself
+## Written by: Claudia Estupinan Forero
 
-Claudia. When you are reading this letter I hope you are fine. Instead, don't worry. I know you cry when you feel
-frustrated on the road or desperated because you think you are not good programming, you don't have enough knowledge and people don't appreciate you because you're not brilliant and not fullfill their expetactions. You ought to know: "For foolish talk, deaf ears".
+Dear myself,
+
+When you are reading this letter I hope you are fine. Instead, don't worry. I know you cry when you feel
+frustrated on the road or desperated because you think you are not good programming, you don't have enough knowledge and people don't appreciate you because you're not brilliant and not fullfill their expetactions. 
+
+You ought to know: 
+
+> "For foolish talk, deaf ears".
 
 Life is a rollercoaster. You have had good moments and bad moments. But every second, every minute is a particle how to learn something new. People live situations and humanbeings have the faculty to figure out our problems. Think about that ex co-worker who cheered you up in the way that you had taken at this time. She said to you must see the glass half full ever. 
 
@@ -12,5 +19,9 @@ If you don't know about a tech topic, Google it, go to local tech meetups, take 
 I know that your fulfilling dream is to be a senior web developer one day. But you ought to know you have to tackle your unsexy skills like testing although you hate it. Get feedback all the time because technology changes constantly. Go beyond, research, give speech in community meetups. Check and fix that gap holes. Specialize in one thing. Help others. Contribute with global projects. And the most important, think to be humble instead to show off as the know-it-all, because all people deserve an opportunity. 
 
 The secret to be successful in tech industry is to be an eternal learner. So, don't worry, be happy and go ahead! 
+
+With love,
+
+Myself from the future
 
 
